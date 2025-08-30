@@ -8,6 +8,22 @@ Cursos da alura de Flask
 
 [Flask: avançando no desenvolvimento web com Python](https://cursos.alura.com.br/course/flask-desenvolvimento-web)
 
-Banco de dados - Mysql
 
-ORM - SqlAlchemy
+
+- Integrar com mysql
+- ORM - SqlAlchemy
+- Crud completo com verificações
+- Adicionar imagens no servidor de aplicação
+- Validação de Formulários com Flask WTForms
+- Criptografia de senhas com Flask Bcrypt
+- views para modelos diferentes
+- folha de estilo com bootstrap
+
+![Login](image.png)
+
+![Lista de Jogos](image-1.png)
+
+![Novo Jogo](image-2.png)
+
+
+![Logout](image-3.png)
